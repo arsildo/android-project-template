@@ -62,6 +62,5 @@ kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", versi
 
 ## defined by this project
 template-android-application = { id = "template.android.application", version = "unspecified" }
-template-android-application-compose = { id = "template.android.application.compose", version = "unspecified" }
 template-android-library = { id = "template.android.library", version = "unspecified" }
 template-android-feature = { id = "template.android.feature", version = "unspecified" }
