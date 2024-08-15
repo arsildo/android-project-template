@@ -1,7 +1,7 @@
 [versions]
 agp = "8.5.1"
 kotlin = "2.0.20-RC2"
-ksp = "2.0.20-RC-1.0.24"
+ksp = "2.0.20-RC2-1.0.24"
 androidx-lifecycle = "2.8.4"
 koin-bom = "4.0.0-RC1"
 ktor-bom = "3.0.0-beta-2"
